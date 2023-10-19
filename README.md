@@ -1,16 +1,29 @@
-### Hi there 👋
+<!-- Start of README.md -->
 
-<!--
-**Utkrisht2/Utkrisht2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+• Enthusiastic about technology and deeply captivated by design aesthetics, I am an undergraduate embarking on a journey in field of  computer science engineering. <br/>
+• Presently, I am engrossed in the study of DSA (Data Structures and Algorithms), employing the versatile language of C++. <br/>
 
-Here are some ideas to get you started:
+# 🤔 Why am I here?
+• My GitHub repository serves as a meticulously kept journal, offering an open resource for those seeking to dive into programming from its foundational stages. <br/>
+• I'll try my best in maintaining a steady stream of code uploads, each accompanied by concise explanations to ensure accessibility for beginners. <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 👨🏻‍💻 Languages:
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
+          
+          
+# 📊 GitHub Stats:
+![]()
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkrisht2&theme=dark"  width="5000" height="300">
+
+
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+
+<!-- End of README.md -->
