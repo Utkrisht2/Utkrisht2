@@ -16,6 +16,10 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
+</a>          
           
           
 # 📊 GitHub Stats:
