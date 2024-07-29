@@ -37,6 +37,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Utkrisht2&show_icons=true&locale=en&theme=dark" alt="Utkrisht2" /></p>
 
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkrisht2&theme=dark)](https://git.io/streak-stats)
+
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -49,9 +54,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Utkrisht2&theme=dark)](https://git.io/streak-stats)
 
 
 ## Connect With Me 🚀
