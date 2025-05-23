@@ -5,7 +5,7 @@
 <img src="https://github.com/Utkrisht2/Utkrisht2/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Utkrisht2/count.svg" />
 </p>
 
 ---
